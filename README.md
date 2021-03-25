@@ -8,7 +8,7 @@
 
 For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>. Click any image to launch the respective web-application.
 
-Note: Polarized Squares in currently under construction and additional functionality is being added.
+<b>Note:</b> Polarized Squares in currently under construction and additional functionality is being added.
 
 <br>
 
