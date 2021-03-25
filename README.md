@@ -1,4 +1,4 @@
-### Online Web-Applications 
+<h3>Online Web-Applications</h3>
 
 <p align="center">
 <a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="31%"></a>
@@ -12,7 +12,7 @@ For best performance use a desktop/laptop computer. Mobile device support is sti
 
 <br>
 
-### External Platforms
+<h3>External Platforms</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/13669087/michaeltr7"><img src="https://stackoverflow.com/users/flair/13669087.png?theme=clean" width="156" height="43.5" alt="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
