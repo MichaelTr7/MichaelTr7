@@ -8,6 +8,9 @@
 
 For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>.
 
+### External Platforms
+
+
 
 
 <!--
