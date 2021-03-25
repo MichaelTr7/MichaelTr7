@@ -12,7 +12,6 @@ For best performance use a desktop/laptop computer. Mobile device support is sti
 
 ### External Platforms
 
-Reach out to me at one of the following places!
 - Stackoverflow at <a href="https://stackoverflow.com/users/13669087/michaeltr7" target="_blank">`Stackoverflow/MichaelTr7.com`</a>  
 
 
