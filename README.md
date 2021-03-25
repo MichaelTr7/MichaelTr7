@@ -1,9 +1,9 @@
 ### Online Web-Applications
 
 <p align="center">
-<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="30%"></a>
-<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="30%"></a>
-<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="30%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="33%"></a>
+<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="33%"></a>
+<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="33%"></a>
 </p>
 
 
