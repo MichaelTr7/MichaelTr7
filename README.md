@@ -1,5 +1,10 @@
 <b>Welcome</b>, to my GitHub page. Hope you find something useful or a least enjoyable here. 
 
+<p align="center">
+<b>Main Languages</b><br>
+C • MATLAB • HTML • CSS • JavaScript • Python • Swift
+</p>
+
 <hr>
 
 <h3>Online Web-Applications</h3>
