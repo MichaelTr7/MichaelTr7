@@ -1,4 +1,4 @@
-Welcome, to my GitHub page. Hope you find something useful or a least enjoyable here. 
+<b>Welcome</b>, to my GitHub page. Hope you find something useful or a least enjoyable here. 
 
 <h3>Online Web-Applications</h3>
 
