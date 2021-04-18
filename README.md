@@ -1,5 +1,7 @@
 <b>Welcome</b>, to my GitHub page. Hope you find something useful or a least enjoyable here. 
 
+<hr>
+
 <h3>Online Web-Applications</h3>
 
 <p align="center">
