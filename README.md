@@ -17,9 +17,9 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 <h3>Mult-e-Tool QR Links</h3>
 <p align="center">
-<a href="https://michaeltr7.github.io/Mult-e-Tool/Resistor_Calculator"><img src="./Images/Resistor QR Code.png" width="25%"></a>
-<a href="https://michaeltr7.github.io/Mult-e-Tool/Capacitor_Calculator/"><img src="./Images/Digital Logic Gates QR Code.png" width="25%"></a>
-<a href="https://michaeltr7.github.io/Mult-e-Tool/Digital_Logic_Gates/"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Resistor_Calculator.html"><img src="./Images/Resistor QR Code.png" width="25%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Digital Logic Gates QR Code.png" width="25%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Digital_Logic_Gates.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
 
