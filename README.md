@@ -15,6 +15,15 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
 </p>
 
+<h3>Mult-e-Tool Quick Links</h3>
+
+<p align="center">
+<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="31%"></a>
+<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="31%"></a>
+<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
+</p>
+
+
 For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>. Click any image to launch the respective web-application. Process of converting into PWAs (Progressive Web Apps) underway.
 
 <b>Note:</b> Polarized Squares in currently under construction and additional functionality is being added.
