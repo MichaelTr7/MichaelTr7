@@ -22,6 +22,10 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
+<h3 align="center">OR</h3>
+
+
+
 
 For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>. Click any image to launch the respective web-application. Process of converting into PWAs (Progressive Web Apps) underway.
 
