@@ -17,9 +17,9 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 <h3>Mult-e-Tool QR Links</h3>
 <p align="center">
-<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Resistor QR Code.png" width="20%"></a>
-<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Digital Logic Gates QR Code.png" width="20%"></a>
-<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Capacitor QR Code.png" width="20%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Resistor QR Code.png" width="25%"></a>
+<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Digital Logic Gates QR Code.png" width="25%"></a>
+<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
 
