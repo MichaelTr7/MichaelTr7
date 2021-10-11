@@ -22,7 +22,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
-For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>. Process of converting into PWAs (Progressive Web Apps) underway.
+For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>.
 
 <b>Note:</b> Polarized Squares in currently under construction and additional functionality is being added.
 
