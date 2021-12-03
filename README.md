@@ -33,6 +33,7 @@ Scan with smartphone camera
 <hr>
 
 <h3>Cybertruck UI - Concept Recreation:</h3>
+<h6>An interactive Tesla Cybertruck UI concept/mockup recreation.</h6>
 
 <p align="center">
   <a href="https://michaeltr7.github.io/CyberUI/">
@@ -40,7 +41,9 @@ Scan with smartphone camera
   </a>
 </p>
 
-
+<p align="right">
+  <sub><sup>Disclaimer: Created for educational and experimental purposes.</sup></sub>
+</p>
 
 <h3>External Platforms</h3>
 
