@@ -8,7 +8,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <hr>
 
 <h3>Online Web-Applications:</h3>
-For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> and <b>Polarized Squares</b> still underway.
+<h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> and <b>Polarized Squares</b> still underway.</h6>
 <br>
 <br>
 
@@ -21,7 +21,7 @@ For best performance use a desktop/laptop computer. Development for <b>Dots and 
 <hr>
 
 <h3>Mult-e-Tool QR Codes:</h3>
-Scan with smartphone camera
+<h6>Scan with smartphone camera</h6>
 <br>
 <br>
 <p align="center">
@@ -37,7 +37,7 @@ Scan with smartphone camera
 
 <p align="center">
   <a href="https://michaeltr7.github.io/CyberUI/">
-    <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="90%">
+    <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="80%">
   </a>
 </p>
 
