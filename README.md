@@ -18,6 +18,7 @@ For best performance use a desktop/laptop computer. Development for <b>Dots and 
 <a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
 </p>
 
+<hr>
 
 <h3>Mult-e-Tool QR Links</h3>
 <p align="center">
@@ -25,6 +26,10 @@ For best performance use a desktop/laptop computer. Development for <b>Dots and 
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Digital_Logic_Gates.html"><img src="./Images/Digital Logic Gates QR Code.png" width="25%"></a>
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
+
+<hr>
+
+<h3>Cybertruck UI - Concept Recreation</h3>
 
 <p align="center">
   <a href="https://michaeltr7.github.io/CyberUI/">
