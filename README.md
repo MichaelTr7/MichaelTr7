@@ -22,20 +22,21 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
-For best performance use a desktop/laptop computer. Mobile device support is still under development for <b>Dots and Boxes</b> and <b>Polarized Squares</b>.
-
-<b>Note:</b> Polarized Squares in currently under construction and additional functionality is being added.
-
+For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> and <b>Polarized Squares</b> still underway.
 <br>
+
+
+<p align="center">
+  <a href="https://michaeltr7.github.io/CyberUI/">
+    <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="90%">
+  </a>
+</p>
+
+
 
 <h3>External Platforms</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/13669087/michaeltr7"><img src="https://stackoverflow.com/users/flair/13669087.png?theme=clean" width="156" height="43.5" alt="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<p align="center">
-  <a href="https://michaeltr7.github.io/CyberUI/">
-    <img src="Screenshot Previews/Cyber_UI_Screenshot_1.png" width="90%">
-  </a>
-</p>
 
