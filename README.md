@@ -37,7 +37,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 <p align="center">
   <a href="https://michaeltr7.github.io/CyberUI/">
-    <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="80%">
+    <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="70%">
   </a>
 </p>
 
