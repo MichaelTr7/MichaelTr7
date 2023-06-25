@@ -11,7 +11,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <br>
 
 <p align="center">
-<a href="https://michaeltr7.github.io/OS-Portfolio/"><img src="https://github.com/MichaelTr7/OS-Portfolio/blob/68eb0d44003cc2766cf6ffbdf3ee488abfe128d5/Assets/Preview%20Images/Preview%201.png" width="20%"></a>
+<a href="https://michaeltr7.github.io/OS-Portfolio/"><img src="https://github.com/MichaelTr7/OS-Portfolio/blob/68eb0d44003cc2766cf6ffbdf3ee488abfe128d5/Assets/Preview%20Images/Preview%201.png" width="40%"></a>
 </p>
 
 
