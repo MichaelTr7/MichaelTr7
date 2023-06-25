@@ -1,4 +1,6 @@
+<p align="center">
 <b>Welcome</b>, to my GitHub page. Hope you find something useful or a least enjoyable here. 
+</p>
 
 <p align="center">
 <b>Main Languages I Use</b><br>
