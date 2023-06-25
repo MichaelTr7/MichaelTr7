@@ -7,6 +7,20 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 <hr>
 
+
+<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
+
+
+
+
+
+
+
+
+
+
+
+
 <h3>Online Web-Applications:</h3>
 <h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> and <b>Polarized Squares</b> still underway.</h6>
 <br>
