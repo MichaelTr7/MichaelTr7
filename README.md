@@ -8,7 +8,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <hr>
 
 
-<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
+<a href="https://michaeltr7.github.io/OS-Portfolio/"><img src="https://github.com/MichaelTr7/OS-Portfolio/blob/68eb0d44003cc2766cf6ffbdf3ee488abfe128d5/Assets/Preview%20Images/Preview%201.png" width="31%"></a>
 
 
 
