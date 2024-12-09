@@ -3,7 +3,7 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 </p>
 
 <p align="center">
-<b>Main Languages I Use</b><br>
+<b>Programming Languages I Use</b><br>
 C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 </p>
 
