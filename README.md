@@ -9,6 +9,9 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=radical)
 
+![Metrics](https://metrics.lecoq.io/MichaelTr7)
+
+
 
 <br>
 
