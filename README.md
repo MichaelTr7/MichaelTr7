@@ -7,7 +7,7 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=vue)
 
 <br>
 
