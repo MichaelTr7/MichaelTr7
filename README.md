@@ -9,8 +9,11 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=radical)
 
-
 <br>
+
+<p align="center">
+<b>My Portfolio</b><br>
+</p>
 
 <p align="center">
 <a href="https://michaeltr7.github.io/OS-Portfolio/"><img src="https://github.com/MichaelTr7/OS-Portfolio/blob/68eb0d44003cc2766cf6ffbdf3ee488abfe128d5/Assets/Preview%20Images/Preview%201.png" width="60%"></a>
