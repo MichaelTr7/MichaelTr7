@@ -14,14 +14,6 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://github.com/MichaelTr7"> <img  style="box-sizing:border-box" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTr7&layout=compact" height="200" /> </a>
 </div>
 
-USERNAME=MichaelTr7
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&theme=vue)
-
-<a href="https://github.com/${USERNAME}"> 
-  <img style="box-sizing:border-box" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${USERNAME}&layout=compact" height="200" /> 
-</a>
-
-Can you declare the username as MichaelTr7
 
 <br>
 
