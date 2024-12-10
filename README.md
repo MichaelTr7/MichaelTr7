@@ -10,6 +10,10 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=vue)
 
 
+<a href="https://github.com/MichaelTr7"> <img  style="box-sizing:border-box" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTr7&layout=compact" height="200" /> </a>
+</div>
+
+
 ![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
 
 
