@@ -72,7 +72,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <p align="right">
   <sub><sup>Disclaimer: Created for educational and experimental purposes.</sup></sub>
 </p>
-
+<hr>
 <h3>External Platforms</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
