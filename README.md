@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
 
 <p align="center">
 Welcome, to my GitHub page. Hope you find something useful or a least enjoyable here. 
@@ -79,4 +78,4 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/13669087/michaeltr7"><img src="https://stackoverflow.com/users/flair/13669087.png?theme=clean" width="156" height="43.5" alt="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MichaelTr7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-
+![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
