@@ -10,7 +10,7 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=vue)
 
 
-![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
 
 
 
