@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
+
 <p align="center">
 Welcome, to my GitHub page. Hope you find something useful or a least enjoyable here. 
 </p>
@@ -6,8 +8,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <b>Programming Knowledge</b><br>
 C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 </p>
-
-![](https://komarev.com/ghpvc/?username=MichaelTr7&style=flat-square&color=42b883)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=vue)
 
