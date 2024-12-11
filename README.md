@@ -14,8 +14,6 @@ C • MATLAB • HTML • CSS • JavaScript • Python • Swift
 <a href="https://github.com/MichaelTr7"> <img  style="box-sizing:border-box" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTr7&layout=compact" height="200" /> </a>
 </div>
 
-
-<br>
 <hr>
 
 <h3>My Portfolio</h3>
