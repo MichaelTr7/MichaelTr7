@@ -3,10 +3,6 @@
 Welcome, to my GitHub page. Hope you find something useful or a least enjoyable here. 
 </p>
 
-<p align="left">
-<b>Programming Knowledge</b><br>
-</p>
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelTr7&show_icons=true&theme=vue)
 
 
