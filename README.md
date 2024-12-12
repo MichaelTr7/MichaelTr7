@@ -34,9 +34,8 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <br>
 
 <p align="center">
-<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="31%"></a>
-<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="31%"></a>
-<a href="https://michaeltr7.github.io/Polarized-Squares/"><img src="./Images/Polarized Squares.png" width="31%"></a>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="49%"></a>
+<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="49%"></a>
 </p>
 
 <hr>
