@@ -29,8 +29,7 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 
 
 <h3>Online Web-Applications:</h3>
-<h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> and <b>Polarized Squares</b> still underway.</h6>
-<br>
+<h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> still underway.</h6>
 <br>
 
 <p align="center">
@@ -42,7 +41,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 
 <h3>Mult-e-Tool QR Codes:</h3>
 <h6>Scan with smartphone camera</h6>
-<br>
 <br>
 <p align="center">
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Resistor_Calculator.html"><img src="./Images/Resistor QR Code.png" width="25%"></a>
