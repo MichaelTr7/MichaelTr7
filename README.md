@@ -11,9 +11,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 
 <hr>
 
-<br>
-<hr>
-
 
 
 
