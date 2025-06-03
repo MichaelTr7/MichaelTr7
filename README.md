@@ -9,12 +9,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <a href="https://github.com/MichaelTr7"> <img  style="box-sizing:border-box" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTr7&layout=compact" height="200" /> </a>
 </div>
 
-<hr>
-
-
-
-
-
 <h3>Online Web-Applications:</h3>
 <h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> still underway.</h6>
 <br>
