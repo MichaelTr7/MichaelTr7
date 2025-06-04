@@ -18,9 +18,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="49%"></a>
 </p>
 
-
-<h3>Mult-e-Tool QR Codes:</h3>
-<h6>Scan with smartphone camera</h6>
 <br>
 <p align="center">
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Resistor_Calculator.html"><img src="./Images/Resistor QR Code.png" width="25%"></a>
