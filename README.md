@@ -18,7 +18,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="49%"></a>
 </p>
 
-<hr>
 
 <h3>Mult-e-Tool QR Codes:</h3>
 <h6>Scan with smartphone camera</h6>
@@ -29,7 +28,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 <a href="https://michaeltr7.github.io/Mult-e-Tool/Pages/Capacitor_Calculator.html"><img src="./Images/Capacitor QR Code.png" width="25%"></a>
 </p>
 
-<hr>
 <h3>External Platforms</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
