@@ -10,8 +10,7 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 </div>
 
 <h3>Online Web-Applications:</h3>
-<h6>For best performance use a desktop/laptop computer. Development for <b>Dots and Boxes</b> still underway.</h6>
-<br>
+<h6>For best performance use a desktop browser
 
 <p align="center">
 <a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="49%"></a>
