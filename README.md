@@ -30,18 +30,6 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 </p>
 
 <hr>
-
-<h3>Cybertruck UI - Concept Recreation:</h3>
-<h6>An interactive Tesla Cybertruck UI concept/mockup recreation.</h6>
-<p align="center">
-<a href="https://michaeltr7.github.io/CyberUI/">
-  <img src="https://github.com/MichaelTr7/CyberUI/blob/main/Screenshot%20Previews/Cyber_UI_Screenshot_1.png" width="65%">
-</a>
-</p>
-<p align="right">
-  <sub><sup>Disclaimer: Created for educational and experimental purposes.</sup></sub>
-</p>
-<hr>
 <h3>External Platforms</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
