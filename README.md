@@ -11,6 +11,7 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 
 <h3>Online Web-Applications:</h3>
 <h6>For best performance use a desktop browser
+<br>
 
 <p align="center">
 <a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="49%"></a>
