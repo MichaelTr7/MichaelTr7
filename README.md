@@ -13,9 +13,8 @@ Welcome, to my GitHub page. Hope you find something useful or a least enjoyable 
 
 
 <p align="center">
-<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="49%"></a>
-<a href="https://michaeltr7.github.io/Dots-and-Boxes/"><img src="./Images/Dots and Boxes.png" width="49%"></a>
-</p>
+<a href="https://michaeltr7.github.io/Mult-e-Tool/"><img src="./Images/Mult-e-Tool.png" width="85%"></a>
+
 
 <br>
 <p align="center">
